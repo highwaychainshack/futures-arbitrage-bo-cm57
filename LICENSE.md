@@ -1,4 +1,4 @@
-# 
+# high-frequency Automation Script for perpetual trading bot | low-frequency + market-making is the best perpetual trading bot, featuring low-frequency and market-making. Smart,
 
 
 
